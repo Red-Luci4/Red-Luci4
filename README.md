@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Red-Luci4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Red-Luci4/Red-Luci4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello World.
+===
+### <U>About me:</U>
+* I'm a nobody.
+* I like open source & Computers.
+### <U>Some Stuff I made:</U>
+* Currently empty since I dont have any public repos.
